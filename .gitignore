@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+global.json
+.idea/.idea.SE.RabbitMQ/.idea/vcs.xml
+.idea/.idea.SE.RabbitMQ/.idea/indexLayout.xml
+.idea/.idea.SE.RabbitMQ/.idea/encodings.xml
+global.json
